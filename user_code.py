@@ -1,5 +1,5 @@
 # Example with errors   
-x = 5
+x = 3
 print("Value of x:", x)  
 
 # Syntax error  
